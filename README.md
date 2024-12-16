@@ -8,7 +8,7 @@ The universal proxy platform.
 
 https://sing-box.sagernet.org
 
-## License
+## License 
 
 ```
 Copyright (C) 2022 by nekohasekai <contact-sagernet@sekai.icu>
